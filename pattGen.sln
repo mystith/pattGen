@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pattGen", "pattGen.csproj", "{96E255A6-B21E-44E2-8FA7-96A42DA52963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E255A6-B21E-44E2-8FA7-96A42DA52963}.Debug|x86.ActiveCfg = Debug|x86
+		{96E255A6-B21E-44E2-8FA7-96A42DA52963}.Debug|x86.Build.0 = Debug|x86
+		{96E255A6-B21E-44E2-8FA7-96A42DA52963}.Release|x86.ActiveCfg = Release|x86
+		{96E255A6-B21E-44E2-8FA7-96A42DA52963}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A3109B-DAE3-4D18-982A-DD63A0903E5E}
+	EndGlobalSection
+EndGlobal
